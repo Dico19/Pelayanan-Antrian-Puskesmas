@@ -1,3 +1,10 @@
+NAMA ANGGOTA KELOMPOK :
+AHMAD NA'IM BASHIROH (14022300034)
+ILHAM RIYADI (140223000
+RITAJU ARRIFKIYANI (140223000
+INDRA SAPUTRA DEWANTARA (140223000
+
+
 Sistem Antrian Puskesmas Online Sederhana
 
 🔥 Project ini adalah sebuah aplikasi sistem antrian berbasis web yang dibuat menggunakan Laravel. Tujuan utama aplikasi ini adalah untuk mempermudah proses pendaftaran pasien di Puskesmas secara online, sehingga pasien tidak perlu menunggu lama secara manual dan petugas dapat mengelola antrian dengan lebih tertib dan efisien.
