@@ -38,7 +38,6 @@ Pelayanan Sistem Antrian Online Puskesmas Kaligandu
 
 🔹 5. Sistem Role Management
 - Role Admin
-- Role Petugas
 - Role User/Pasien
 - Setiap role memiliki akses dan tampilan yang berbeda.
 
