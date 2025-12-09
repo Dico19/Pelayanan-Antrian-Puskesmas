@@ -15,6 +15,7 @@ Pelayanan Sistem Antrian Online Puskesmas Kaligandu
 🚀 Aplikasi ini menyediakan fitur untuk pasien, petugas, dan admin dengan akses yang berbeda sesuai kebutuhan masing-masing.
 
 ✨ Fitur Utama
+
 🔹 1. Pendaftaran Antrian Online
 - Pasien dapat mengambil nomor antrian secara online.
 - Memilih poli tujuan (Poli Umum, Poli Gigi, Poli Anak, Poli Lansia, Poli KIA, dan lainnya).
